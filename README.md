@@ -15,13 +15,8 @@ In this project, we will see how to:
 - 🌍 **Real-World Applications**: Understand how financial institutions detect and combat fraud daily.
 
 
-## 🛠 Getting Started
-
-To work on this project:
-1. **Clone or fork** this repository.
-2. Open the `.pbix` file with **Power BI Desktop**.
-3. Download the provided dataset or connect your own credit card transaction data.
-
+## POWER BI CHART (Credit Card Fraud Analysis):
+![Alt text](https://github.com/NaboIO/Credit-Card-Fraud-Risk-Analysis---PowerBI/blob/main/dashboard.png?raw=true "Optional Title")
 ---
 
 ## 🎯 Who Should Use This Project?
